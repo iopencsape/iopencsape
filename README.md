@@ -4,7 +4,7 @@ Welcome to the Symfony Standard DDD Edition - a fully-functional Symfony applica
 
 For details on how to download and get started with Symfony, see the Installation chapter of the Symfony Documentation.
 
-## Installing the Symfony Standard DDD Edition
+# hidefs
 When it comes to installing the Symfony Standard DDD Edition, you have the following options.
 
 ### Use Composer (*recommended*)
@@ -16,7 +16,7 @@ If you don't have Composer yet, download it following the instructions on http:/
 
 Then, use the `create-project` command to generate a new Symfony application:
 
-    php composer.phar create-project regniblod/symfony-ddd-edition --stability=dev path/to/install
+    php composer.phar create-project regniblod/hidefs --stability=dev path/to/install
 
 Composer will install Symfony and all its dependencies under the `path/to/install` directory.
 
@@ -169,7 +169,7 @@ src
 
 [1]:  https://symfony.com/doc/3.0/book/installation.html
 [2]:  http://getcomposer.org/
-[3]:  https://github.com/regniblod/symfony-ddd-edition/archive/master.zip
+[3]:  https://github.com/regniblod/hidefs/archive/master.zip
 [4]:  http://symfony.com/doc/2.7/quick_tour/the_big_picture.html
 [5]:  http://symfony.com/doc/2.7/index.html
 [6]:  https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html
