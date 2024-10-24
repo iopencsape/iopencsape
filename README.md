@@ -4,7 +4,7 @@ Welcome to the Symfony Standard DDD Edition - a fully-functional Symfony applica
 
 For details on how to download and get started with Symfony, see the Installation chapter of the Symfony Documentation.
 
-# hidefs
+# iopencsape
 When it comes to installing the Symfony Standard DDD Edition, you have the following options.
 
 ### Use Composer (*recommended*)
